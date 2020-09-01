@@ -99,7 +99,7 @@ function ProductList(props) {
           <Card>  
             <CardHeader>  
               <i className="fa fa-align-justify"></i> Product List  
-              <button className="btn btn-success" onClick={() => { downloadPDF(data) }}>Edit</button>  
+              <button className="btn btn-success" onClick={() => { downloadPDF(data) }}>Download PDF</button>  
                             
               </CardHeader>  
             <CardBody>  
