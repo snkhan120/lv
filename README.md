@@ -1,9 +1,12 @@
 ## Proudcts:
 
 Simply create Reactjs product add form, show all products list
+Data Migration included
+DB MySQL
+
 
 ## Remaining Task:
 
-Delete and Edit form are not developed but backend functionality is done 
-<br/>PDF file download but image is not included
+Edit form is not developed but backend functionality is done .
+<br/>PDF file downloadable but image in PDF work is not done.
 <br/>UI/UX need some tweaking 
